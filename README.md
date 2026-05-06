@@ -1,12 +1,12 @@
 # CT077-3-2-DSTR | Lab Work #1
 ## Comparative Analysis of Arrays and Singly Linked Lists
-### Urban Carbon Emission Data — Cityville
+### Urban Carbon Emission Data - Cityville
 
 ---
 
 ## Overview
 
-This project implements and compares two fundamental data structures — **Arrays** and **Singly Linked Lists** — applied to a real-world dataset of urban carbon emissions from resident commuting patterns across three cities.
+This project implements and compares two fundamental data structures - **Arrays** and **Singly Linked Lists** - applied to a real-world dataset of urban carbon emissions from resident commuting patterns across three cities.
 
 Two separate programs are provided, each performing identical analyses using a different underlying data structure.
 
@@ -16,12 +16,12 @@ Two separate programs are provided, each performing identical analyses using a d
 
 | File | Description |
 |------|-------------|
-| `carbon_emission.hpp` | Shared header — structs, constants, lookup tables, utility functions |
-| `array_program.cpp` | Program 1 — Array-based implementation |
-| `linkedlist_program.cpp` | Program 2 — Singly Linked List implementation |
-| `dataset1-cityA.csv` | City A (Metropolitan City) — 200 records |
-| `dataset2-cityB.csv` | City B (University Town) — 178 records |
-| `dataset3-cityC.csv` | City C (Suburban/Rural Area) — 122 records |
+| `carbon_emission.hpp` | Shared header - structs, constants, lookup tables, utility functions |
+| `array_program.cpp` | Program 1 - Array-based implementation |
+| `linkedlist_program.cpp` | Program 2 - Singly Linked List implementation |
+| `dataset1-cityA.csv` | City A (Metropolitan City) - 200 records |
+| `dataset2-cityB.csv` | City B (University Town) - 178 records |
+| `dataset3-cityC.csv` | City C (Suburban/Rural Area) - 122 records |
 
 ---
 
